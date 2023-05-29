@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm JrJmt (Julius Ronald)👋
+
+- 🌱 I’m currently learning Android Operation System
+- 🔭 I’m currently working on Maintainer Project Elixir & xdroidOSS
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrjmt&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jrjmt/jrjmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
